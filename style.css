@@ -9,6 +9,26 @@ body{
     left: 976px;
     top: 226px;
   }
+  .ellipse1{
+    position: absolute;
+    width: 366px;
+    height: 59px;
+    left: 950px;
+    top: 511px;
+    background: #EFEFEF;
+    border-radius: 366%;
+    z-index: -1;
+  }
+  .ellipse2{
+    position: absolute;
+    width: 189px;
+    height: 32px;
+    left: 157px;
+    top: 857px;
+    background: #EFEFEF;
+    border-radius: 366%;
+    z-index: -1;
+  }
   .sekiliki{
     position: absolute;
     width: 232px;
@@ -97,6 +117,18 @@ body{
   font-weight: bold;
   font-size: 32px;
   line-height: 101.38%;}
+  .ellipse1{
+  position: absolute;
+  width: 211.98px;
+  height: 34.17px;
+  left: 550.39px;
+  top: 299.25px;  
+  background: #EFEFEF;
+  z-index: -1;
+  }
+  .ellipse2{
+    display: none;
+  }
   .esas{
   position: absolute;
   width: 383.41px;
@@ -165,7 +197,7 @@ body{
   width: 170.55px;
   height: 160.29px;
   left: 101px;
-  top: 338px;
+  top: 338.0px;
     }
     .sekiliki{
       width: 0;
@@ -178,6 +210,18 @@ body{
   top: 56px;
   font-style: bold;
   font-size: 26px;
+    }
+    .ellipse1{
+  position: absolute;
+  width: 170.55px;
+  height: 27.49;
+  left: 101px;
+  top:470.8px;
+  background: #EFEFEF;
+  z-index: -1;
+    }
+    .ellipse2{
+      display: none;
     }
   .esas{
     position: absolute;
@@ -228,7 +272,7 @@ body{
   width: 69.9px;
   height: 18.17px;
   left: 35px;
-  top: 615px;
+  top: 615.0px;
   }
   
   }
